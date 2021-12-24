@@ -1,0 +1,2 @@
+# hotspot-responsip
+themplate hotspot
